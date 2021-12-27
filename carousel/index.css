@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#container1{
+    width: 1000px;
+    height: 1000px;
+    overflow: hidden;
+    margin: 0px auto;
+    position: relative;
+
+}
